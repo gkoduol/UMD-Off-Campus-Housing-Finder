@@ -1,4 +1,4 @@
-# INST326-Final-Project - UMD Off-Campus Housing Finder
+# UMD Off-Campus Housing Finder
 **About the Poject**
 A Python-based housing finder application designed specifically for University of Maryland students to search and analyze off-campus apartment options.
 **Project Description**
